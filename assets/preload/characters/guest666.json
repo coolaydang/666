@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-6,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				1,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "guest666 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				82
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "guest666 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "guest666 down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "guest666 up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				14,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "guest666 right"
+		},
+		{
+			"offsets": [
+				0,
+				15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "guest666 left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/guest666",
+	"position": [
+		-530,
+		-60
+	],
+	"healthicon": "666",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		0,
+		0
+	],
+	"camera_position": [
+		-290,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
