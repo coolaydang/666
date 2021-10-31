@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bf do you know were we are"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "what do you mean you dont know"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "guestPort",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "h"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": " "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "guestPort",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "e"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "who are you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "guestPort",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "l"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "guestPort",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "p"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "what do you mean you want to rap"
+		}
+	]
+}

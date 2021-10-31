@@ -1,14 +1,15 @@
 {
 	"storyName": "roblox guest",
 	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekBefore": "tutorial",
+	"weekBackground": "",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"",
 		"bf",
@@ -16,15 +17,14 @@
 	],
 	"songs": [
 		[
-			"666beta",
 			"666",
+			"icon-666",
 			[
-				20,
+				40,
 				0,
 				0
 			]
 		]
 	],
-	"hideStoryMode": false,
 	"weekName": "custom week"
 }
